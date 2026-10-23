@@ -1,0 +1,16 @@
+{
+  "modelId": "amazon.nova-2-lite-v1:0",
+  "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "Reply with: EcoRescue AI test successful"
+        }
+      ]
+    }
+  ],
+  "inferenceConfig": {
+    "maxTokens": 50
+  }
+}
